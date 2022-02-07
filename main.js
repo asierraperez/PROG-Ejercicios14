@@ -7,6 +7,7 @@ function main() {
     Ejercicio6()
     Ejercicio7()
     Ejercicio8()
+    Ejercicio9()
 
 }
 main()
