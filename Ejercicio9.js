@@ -1,3 +1,5 @@
+//añadir tres elementos a la lista y ponerlos a continuacion de los
+//ya existentes
 function Ejercicio9() {
     var interfaces = document.createElement("li")
     var despliegue = document.createElement("li")

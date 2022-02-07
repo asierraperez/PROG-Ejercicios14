@@ -1,3 +1,4 @@
+//Alineado al centro y cursiva de elementos de tipo tag
 function Ejercicio7() {
     var filas = document.getElementsByTagName("tr")
     for (let i = 0; i < filas.length; i++) {
