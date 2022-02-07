@@ -5,6 +5,7 @@ function main() {
     Ejercicio4()
     //Ejercicio5()
     Ejercicio6()
+    Ejercicio7()
 
 }
 main()
