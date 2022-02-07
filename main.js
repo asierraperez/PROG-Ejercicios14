@@ -3,6 +3,8 @@ function main() {
     //Ejercicio2()
     Ejercicio3()
     Ejercicio4()
+    //Ejercicio5()
+    Ejercicio6()
 
 }
 main()
